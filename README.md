@@ -22,5 +22,5 @@ The [Download page](https://graphmodeler.com/download/) says how to install it a
 The key is at https://graphmodeler.com/graph-modeler-release-key.asc. The steps are on the
 [Download page](https://graphmodeler.com/download/#check-your-download).
 
-**License:** the Graph Modeler Personal Use License, in [LICENSE](LICENSE): free for personal, educational and other non-commercial use,
+**License:** the Graph Modeler License, in [LICENSE](LICENSE): free for personal, educational and other non-commercial use,
 with a commercial license for commercial use. **Questions and problems:** support@graphmodeler.com.
